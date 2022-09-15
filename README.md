@@ -6,7 +6,7 @@ Olá!! Sou o Ryan Gouvea  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go
  <div>
   <p align=center>⚙️ &nbsp;GitHub Analytics</p>
   <p align="center">
-  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=yasminalves16&show_icons=true&count_private=true&hide_border=true&title_color=F73BE0&icon_color=F73BE0&text_color=c9d1d9&bg_color=0d1117" alt="Ryangouvea github stats" /> 
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=Ryangouvea&show_icons=true&count_private=true&hide_border=true&title_color=F73BE0&icon_color=F73BE0&text_color=c9d1d9&bg_color=0d1117" alt="Ryangouvea github stats" /> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryangouvea&layout=compact&hide_border=true&title_color=F73BE0&text_color=F73BE0&bg_color=0d1117" />
   </p>
   </div>
@@ -52,4 +52,4 @@ Olá!! Sou o Ryan Gouvea  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go
 
 
 
-![](https://komarev.com/ghpvc/?username=yasminalves16)
+![](https://komarev.com/ghpvc/?username=Ryangouvea)
